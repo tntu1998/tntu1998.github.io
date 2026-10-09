@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Lập trình viên Senior",
+    "company": "Tập đoàn Acme",
+    "description": "Dẫn dắt chuyển đổi kiến trúc frontend và hướng dẫn các lập trình viên junior.",
+    "startDate": "2023",
+    "endDate": "Present",
+    "sortOrder": 1
+  },
+  {
+    "id": 2,
+    "title": "Lập trình viên",
+    "company": "StartupXYZ",
+    "description": "Phát triển các tính năng cốt lõi và tối ưu hiệu suất pipeline CI/CD lên 40%.",
+    "startDate": "2021",
+    "endDate": "2023",
+    "sortOrder": 2
+  },
+  {
+    "id": 3,
+    "title": "Lập trình viên Junior",
+    "company": "Agency Co",
+    "description": "Xây dựng website cho khách hàng và các công cụ nội bộ bằng công nghệ hiện đại.",
+    "startDate": "2019",
+    "endDate": "2021",
+    "sortOrder": 3
+  }
+]

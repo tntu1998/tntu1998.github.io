@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "projects": "Projects",
+    "education": "Education",
+    "contact": "Contact",
+    "viewCv": "CV",
+    "menu": "Menu",
+    "switchLanguage": "Switch language"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "role": "Full-Stack Developer",
+    "contactMe": "Get in touch",
+    "viewCv": "View as CV",
+    "links": {
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "facebook": "Facebook",
+      "zalo": "Zalo",
+      "telegram": "Telegram"
+    }
+  },
+  "sections": {
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "projects": "Projects",
+    "education": "Education",
+    "contact": "Contact"
+  },
+  "contact": {
+    "title": "Let's work together",
+    "intro": "Always happy to talk about a new project, a collaboration, or simply a good conversation about technology.",
+    "downloadCv": "Download CV",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location"
+  },
+  "project": {
+    "details": "View details",
+    "viewDemo": "Live Demo",
+    "viewSource": "Source Code",
+    "close": "Close"
+  },
+  "cv": {
+    "back": "Back to portfolio",
+    "print": "Print",
+    "downloadPdf": "Download PDF",
+    "about": "Profile",
+    "selectedWork": "Selected work",
+    "preparing": "Preparing the PDF…",
+    "pdfError": "The PDF could not be created. Please try again in a moment."
+  },
+  "common": {
+    "present": "Present",
+    "backToTop": "Back to top"
+  },
+  "footer": {
+    "copyright": "All rights reserved.",
+    "builtWith": "Built with Angular & Spring Boot"
+  }
+}

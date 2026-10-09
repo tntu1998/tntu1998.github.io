@@ -1,0 +1,1 @@
+var o=[];export{o as ADMIN_ROUTES};

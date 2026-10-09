@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "title": "E-Commerce Platform",
+    "shortDesc": "Full-stack e-commerce with real-time inventory management.",
+    "fullDesc": "A comprehensive e-commerce platform built with Angular and Spring Boot, featuring catalog browsing, shopping cart, checkout integration, and real-time inventory synchronization.",
+    "demoUrl": "https://demo.tutn.io.vn/ecommerce",
+    "sourceUrl": "https://github.com/tntu1998",
+    "sortOrder": 1,
+    "techTags": [
+      "Angular",
+      "Java",
+      "Spring Boot",
+      "PostgreSQL"
+    ],
+    "screenshots": []
+  },
+  {
+    "id": 2,
+    "title": "Task Manager",
+    "shortDesc": "Collaborative task management with drag-and-drop interface.",
+    "fullDesc": "Real-time collaborative task board with WebSocket support, customizable workflows, and Kanban-style view.",
+    "demoUrl": "https://demo.tutn.io.vn/tasks",
+    "sourceUrl": "https://github.com/tntu1998",
+    "sortOrder": 2,
+    "techTags": [
+      "Angular",
+      "Spring Boot",
+      "WebSocket"
+    ],
+    "screenshots": []
+  },
+  {
+    "id": 3,
+    "title": "Weather Dashboard",
+    "shortDesc": "Real-time weather with interactive charts and maps.",
+    "fullDesc": "Weather forecast dashboard integrating external weather APIs with D3.js visualization charts.",
+    "demoUrl": "https://demo.tutn.io.vn/weather",
+    "sourceUrl": "https://github.com/tntu1998",
+    "sortOrder": 3,
+    "techTags": [
+      "TypeScript",
+      "D3.js",
+      "REST API"
+    ],
+    "screenshots": []
+  },
+  {
+    "id": 4,
+    "title": "Blog CMS",
+    "shortDesc": "Headless CMS with markdown and media management.",
+    "fullDesc": "Lightweight content management system with rich markdown editor, media upload, and RESTful API.",
+    "demoUrl": "https://demo.tutn.io.vn/blog",
+    "sourceUrl": "https://github.com/tntu1998",
+    "sortOrder": 4,
+    "techTags": [
+      "Java",
+      "Spring Boot",
+      "Angular"
+    ],
+    "screenshots": []
+  }
+]

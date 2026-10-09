@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Developer",
+    "company": "Acme Corp",
+    "description": "Led the frontend architecture migration and mentored junior developers.",
+    "startDate": "2023",
+    "endDate": "Present",
+    "sortOrder": 1
+  },
+  {
+    "id": 2,
+    "title": "Developer",
+    "company": "StartupXYZ",
+    "description": "Built core product features and improved CI/CD pipeline performance by 40%.",
+    "startDate": "2021",
+    "endDate": "2023",
+    "sortOrder": 2
+  },
+  {
+    "id": 3,
+    "title": "Junior Developer",
+    "company": "Agency Co",
+    "description": "Developed client websites and internal tools using modern web technologies.",
+    "startDate": "2019",
+    "endDate": "2021",
+    "sortOrder": 3
+  }
+]

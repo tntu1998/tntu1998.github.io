@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "title": "Nền tảng Thương mại điện tử",
+    "shortDesc": "Hệ thống thương mại điện tử full-stack với quản lý tồn kho thời gian thực.",
+    "fullDesc": "Nền tảng thương mại điện tử toàn diện xây dựng bằng Angular và Spring Boot, gồm duyệt danh mục, giỏ hàng, thanh toán và đồng bộ tồn kho thời gian thực.",
+    "demoUrl": "https://demo.tutn.io.vn/ecommerce",
+    "sourceUrl": "https://github.com/tntu1998",
+    "sortOrder": 1,
+    "techTags": [
+      "Angular",
+      "Java",
+      "Spring Boot",
+      "PostgreSQL"
+    ],
+    "screenshots": []
+  },
+  {
+    "id": 2,
+    "title": "Ứng dụng Quản lý công việc",
+    "shortDesc": "Quản lý công việc cộng tác với giao diện kéo thả trực quan.",
+    "fullDesc": "Bảng công việc cộng tác thời gian thực qua WebSocket, quy trình tùy chỉnh và giao diện Kanban.",
+    "demoUrl": "https://demo.tutn.io.vn/tasks",
+    "sourceUrl": "https://github.com/tntu1998",
+    "sortOrder": 2,
+    "techTags": [
+      "Angular",
+      "Spring Boot",
+      "WebSocket"
+    ],
+    "screenshots": []
+  },
+  {
+    "id": 3,
+    "title": "Bảng thông tin Thời tiết",
+    "shortDesc": "Thông tin thời tiết thời gian thực với biểu đồ và bản đồ tương tác.",
+    "fullDesc": "Bảng dự báo thời tiết tích hợp các API thời tiết với biểu đồ trực quan hóa D3.js.",
+    "demoUrl": "https://demo.tutn.io.vn/weather",
+    "sourceUrl": "https://github.com/tntu1998",
+    "sortOrder": 3,
+    "techTags": [
+      "TypeScript",
+      "D3.js",
+      "REST API"
+    ],
+    "screenshots": []
+  },
+  {
+    "id": 4,
+    "title": "Hệ thống Quản lý bài viết CMS",
+    "shortDesc": "CMS headless hỗ trợ viết bài Markdown và quản lý media.",
+    "fullDesc": "Hệ thống quản lý nội dung gọn nhẹ với trình soạn thảo Markdown, upload media và RESTful API.",
+    "demoUrl": "https://demo.tutn.io.vn/blog",
+    "sourceUrl": "https://github.com/tntu1998",
+    "sortOrder": 4,
+    "techTags": [
+      "Java",
+      "Spring Boot",
+      "Angular"
+    ],
+    "screenshots": []
+  }
+]

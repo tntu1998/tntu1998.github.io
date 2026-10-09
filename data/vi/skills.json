@@ -1,0 +1,38 @@
+[
+  {
+    "id": 3,
+    "name": "Java",
+    "iconUrl": null,
+    "sortOrder": 3
+  },
+  {
+    "id": 4,
+    "name": "Spring Boot",
+    "iconUrl": null,
+    "sortOrder": 4
+  },
+  {
+    "id": 5,
+    "name": "PostgreSQL",
+    "iconUrl": null,
+    "sortOrder": 5
+  },
+  {
+    "id": 6,
+    "name": "Docker",
+    "iconUrl": null,
+    "sortOrder": 6
+  },
+  {
+    "id": 7,
+    "name": "Git",
+    "iconUrl": null,
+    "sortOrder": 7
+  },
+  {
+    "id": 8,
+    "name": "REST APIs",
+    "iconUrl": null,
+    "sortOrder": 8
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "about": "Giới thiệu",
+    "skills": "Kỹ năng",
+    "experience": "Kinh nghiệm",
+    "projects": "Dự án",
+    "education": "Học vấn",
+    "contact": "Liên hệ",
+    "viewCv": "CV",
+    "menu": "Menu",
+    "switchLanguage": "Đổi ngôn ngữ"
+  },
+  "hero": {
+    "greeting": "Xin chào, mình là",
+    "role": "Lập trình viên Full-Stack",
+    "contactMe": "Liên hệ",
+    "viewCv": "Xem dạng CV",
+    "links": {
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "facebook": "Facebook",
+      "zalo": "Zalo",
+      "telegram": "Telegram"
+    }
+  },
+  "sections": {
+    "about": "Giới thiệu",
+    "skills": "Kỹ năng",
+    "experience": "Kinh nghiệm",
+    "projects": "Dự án",
+    "education": "Học vấn",
+    "contact": "Liên hệ"
+  },
+  "contact": {
+    "title": "Cùng làm việc nhé?",
+    "intro": "Mình luôn sẵn lòng trao đổi về dự án mới, cơ hội hợp tác hoặc đơn giản là một cuộc trò chuyện về công nghệ.",
+    "downloadCv": "Tải CV",
+    "email": "Email",
+    "phone": "Điện thoại",
+    "location": "Địa chỉ"
+  },
+  "project": {
+    "details": "Xem chi tiết",
+    "viewDemo": "Xem Demo",
+    "viewSource": "Mã nguồn",
+    "close": "Đóng"
+  },
+  "cv": {
+    "back": "Về trang portfolio",
+    "print": "In",
+    "downloadPdf": "Tải PDF",
+    "about": "Giới thiệu",
+    "selectedWork": "Dự án tiêu biểu",
+    "preparing": "Đang tạo PDF…",
+    "pdfError": "Chưa tạo được PDF. Vui lòng thử lại sau ít phút."
+  },
+  "common": {
+    "present": "Nay",
+    "backToTop": "Lên đầu trang"
+  },
+  "footer": {
+    "copyright": "Bảo lưu mọi quyền.",
+    "builtWith": "Xây dựng với Angular & Spring Boot"
+  }
+}

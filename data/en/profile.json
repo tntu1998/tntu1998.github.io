@@ -2,11 +2,11 @@
   "id": 1,
   "name": "Ngoc Tu Tran",
   "role": "Mid-level Java Backend Developer",
-  "bio": "A passionate developer who loves building clean, performant web applications. Experienced in modern frontend and backend technologies with a focus on delivering great user experiences.",
+  "bio": "I’m a Java Backend Developer passionate about building reliable, scalable, and maintainable systems. I have experience developing RESTful APIs, working with Spring Boot, relational databases, and microservices architecture. I strive for clean code, solid performance, and continuous learning.",
   "avatarUrl": "assets/images/avatar.jpg",
   "githubUrl": "https://github.com/tntu1998",
-  "linkedinUrl": "https://linkedin.com/in/tutn98",
+  "linkedinUrl": null,
   "facebookUrl": "https://facebook.com/nhoc.kaito",
-  "zaloUrl": "https://zalo.me",
-  "telegramUrl": "https://t.me"
+  "zaloUrl": null,
+  "telegramUrl": null
 }

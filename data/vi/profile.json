@@ -1,12 +1,12 @@
 {
   "id": 1,
-  "name": "Venn",
+  "name": "Trần Ngọc Tú",
   "role": "Lập trình viên Backend Java",
-  "bio": "Lập trình viên đam mê xây dựng các ứng dụng web tối ưu và tinh gọn. Có kinh nghiệm với các công nghệ frontend và backend hiện đại, chú trọng trải nghiệm người dùng.",
+  "bio": "Mình là lập trình viên Backend Java, yêu thích việc xây dựng những hệ thống ổn định, dễ mở rộng và dễ bảo trì. Mình có kinh nghiệm phát triển RESTful API, làm việc với Spring Boot, cơ sở dữ liệu quan hệ và kiến trúc microservices. Mình luôn hướng đến code sạch, hiệu năng tốt và không ngừng học hỏi công nghệ mới.",
   "avatarUrl": "assets/images/avatar.jpg",
   "githubUrl": "https://github.com/tntu1998",
-  "linkedinUrl": "https://linkedin.com/in/tutn98",
+  "linkedinUrl": null,
   "facebookUrl": "https://facebook.com/nhoc.kaito",
-  "zaloUrl": "https://zalo.me",
-  "telegramUrl": "https://t.me"
+  "zaloUrl": null,
+  "telegramUrl": null
 }
